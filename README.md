@@ -30,3 +30,6 @@ Hello Everyone, here is what you came for:
 <h4> Final note:</h4>
 <p>I am an intermediate at programming. I know my basic data structures, some algorithms (all array searches + sorts). I am okay at OOP. I am not some prodigious programmer who is amazing at this. I just simply code as a hobby and make what I like, one day I will be coding as a profession. I am taking this journey very slow, but if you rush it, what journey did you have? </p>
 <p>Have a good day 😄 - Alex</p>
+<hr>
+Want to dm me? <img src="https://github.com/AlexScripcariu/AlexScripcariu/assets/172277127/6b41daa5-0ad8-4447-992b-ad4e82fdc227" height="12"> <b>heyglee</b>
+
